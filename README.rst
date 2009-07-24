@@ -6,4 +6,4 @@
 ----------------------------------------------------------------------------
 
 ***Warning!***
-The code is most probably inmature and highly buggy.
+The code is most probably immature and highly buggy.
